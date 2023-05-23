@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/644484088.svg)](https://zenodo.org/badge/latestdoi/644484088)
+
 # Mutz, J., J. S. Thaler, T. A. Ugine, B. D. Inouye, and N. Underwood.
 # Predator densities alter the influence of non-consumptive effects on the population dynamics of an agricultural pest.
 # Guide to supplemental code and simulation output.
